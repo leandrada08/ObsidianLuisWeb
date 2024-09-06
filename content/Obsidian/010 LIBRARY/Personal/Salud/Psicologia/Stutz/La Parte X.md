@@ -1,0 +1,3 @@
+La parte X es una parte tuya que quiero evitar que crezcas, aparece cuando nos enfrentamos a situaciones complicadas, está parte quiere bloquear tu potencial. La parte X es la voz de la imposibilidad, busca que te rindas generandote miedo. 
+#### Se puede deshacer de la parte X?
+No sé puede, por eso hay 3 aspectos de realidad que nadie puede evitar: **Dolor, incertidumbre y trabajo constante**. Con estas cosas tendrás que vivir sin importar lo que pase, si esto no existiría estaríamos estancados y no mejorariamos. Es como el villano que ayuda a crecer al personaje principal . Es por eso que la felicidad no consta en lograr algo, si no en el **proceso de lidiar con esas 3 cosas**

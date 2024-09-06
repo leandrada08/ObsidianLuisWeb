@@ -1,0 +1,11 @@
+**CPU Educativo:** Desarrollo de un CPU sencilla con el fin de hacerla transparente para un estudiante que se esta introduciendo en estos conceptos, esta realizada en VHDL sobre una FPGA Altera con una metodologia TDD, esta CPU es multiciclo, por lo que su control es una maquina de estado, por el display de la FPGA se puede ver el estado de la maquina de estado finito y por UART se le puede enviar la instruccion.
+
+**Detector de idioma:** Con conceptos de probabilidad y estadistica se loca hacer un programa con lenguaje Python capaz de detectar el idioma de un texto.
+
+**Fuente Conmutada:** Se realiza una fuenta conmutada con una potencia maxima de salida de 30\[W\] (1,5 \[A\] y 20\[V\]) , con una corriente de carga nominal de 1,5 \[A] y una corriente de carga maxima de 1,65\[A], se obtuvo un Ripple en la tension de salida de 3%, para esto se uso un integrador TL494 con una configuracion reductora Buck, tambien se le implemento una proteccion por corriente reentrante.
+
+**Trasmisor y receptor de voz:** Se realizo el hardware de un sistema analogico de trasmisicion y recepcion de voz por infrarrojo, se uso una modulacion PWM para la trasmicion, para esto se uso un integrado TL494, para la recepcion de uso un fototransistor infrarrojo y circuitos de ganancia y conversion. Este sistema era capaz de trasmitir hasta a una distancia de 20 metros.
+
+**Reloj despertador:** Se realizo un reloj despertador en C en una placa EDU-CIAA-NXP con un poncho que contaba con display, en el proyecto se implementaron conceptos avanzados de programacion de sistemas embebidos, como es la estrategia TDD para la descripcion, creacion de una Abstraccion de Hardware(HAL), funciones de CallBack, funciones de tick y listas enlazadas. Al final de proyecto, se lo implemento al mismo con un sistema operativo FreeRTOS para familiamizarme con este y con conceptos importantes de los sistemas operativos como es la comunicacion y sincronizacion entre procesos, sistemas de interrupcion, etc.
+
+**CPU RISC-V:** Desarrollé un procesador RISC-V de 32 bits con implementación de la base RV32I. Incluye un módulo DSP para operaciones vectoriales en paralelo, como suma, resta, multiplicación, convolución y filtrado. Utilicé un diseño de pipeline en cinco etapas (IF, ID, EX, MEM, WB) y empleé TDD para validar el proyecto.

@@ -1,0 +1,8 @@
+- Orden externo → orden interno
+- No romantizar el perdon → es un dolor como cualquier otro → puedo dolerar el dolor pero no elegir que desaparezca cuando yo quiera
+- La virtualidad evita el reflejo y el sentimiento de conexion con la otra persona
+- La seguridad cada persona la encuentra en distintos lugares → puede ser fisica(casa), mental o social
+- Dejar de romantizar el sentimiento de sentir que la vida tiene sentido, la vida es muy cambiable por lo cual no se puede creer que se sentira que tiene sentido ya que por momentos me siento en la shit y luego me siento en el cielo 
+- Cambiar el “*o*” por el “*y*”. Ejemplo: Soy bueno o malo → Soy bueno y malo
+- Analizar a la persona por el historial mas que por lo ocasional
+- Aceptar los estados de animo que duran varios dias, no solo las emociones de minutos

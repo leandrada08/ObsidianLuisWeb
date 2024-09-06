@@ -1,0 +1,15 @@
+Según el mismo Daniel Kahneman en su libro nobel de economía “Pensar rápido, pensar despacio”, define el efecto ancla como ese fenómeno que se produce cuando las personas consideran un valor particular para una cantidad desconocida antes de estimar esa cantidad. Las personas son influidas por información no necesariamente informativa.
+
+![1554893492_322974_1554894178_noticia_normal.jpg](https://static.platzi.com/media/user_upload/1554893492_322974_1554894178_noticia_normal-316b59c3-7fef-4978-bebf-29cc4474cf94.jpg)
+
+-   En cuestión de negocios, Casi siempre se ha dicho que hay que esperar a que la otra parte diga el primer número, así puedes ver sus metas e idear mejores alternativas para trabajar con ellas pero el efecto ancla puede dar un resultado diferente.
+
+Queramos o no, la primera oferta genera un efecto ancla en el otro. Esto está comprobado los psicólogos Amos Tversky y Daniel Kahneman en un estudio donde las personas debían adivinar el número de países africanos que pertenecen a las Naciones Unidas, cuando se les dice si el número está arriba o abajo de un tercer número ancla, el resultado será un número cercano al ancla. Algo similar pasó con un estudio por el profesor Greg Northcraft, donde se les daba como ancla un número entre 119,000 y 149,000 mil del precio de una casa, aunque negaban que la lista de precios no tenía influencia en su decisión, los datos no se equivocan y entre más alto fue el número que se les dio, mayor fue el número que dieron ellos en general.
+
+Hay que tener cuidado, ya que aunque puedes generar un efecto ancla a tu favor, no conocer y usar bien el ZOPA (Zone of possible agreement) puede hacer que se rechace de inmediato el ancla. Si crees que tu contraparte tiene un mayor conocimiento del ZOPA, deberías antes de dar un ancla informarte lo más que puedas, en cambio si ambos saben lo mismo, el ancla podría ser difícil de realizar, ya que ambos saben lo que ganan, lo que vale y lo que podría valer. En caso de que ambos desconocen sobre un buen ZOPA, hay mayor riesgo de dar de más o de menos, por lo que puedes sentirte insatisfecho al momento de cerrar el trato. Cuando tú sepas más sobre el ZOPA que la contraparte, puedes estar aún más convencido de dar tu primera oferta con un ancla más agresiva.
+
+![acuerdo-extrajudicial-de-pagos.jpg](https://static.platzi.com/media/user_upload/acuerdo-extrajudicial-de-pagos-8f8e8937-e708-44b3-891a-aba3f735abd3.jpg)
+
+Siempre somos conscientes del ancla, y hasta le prestamos atención, pero no sabemos hasta qué punto guía y condiciona nuestro pensamiento, puesto que no podemos imaginar cómo habríamos pensado si el ancla hubiera sido diferente (o hubiera estado ausente). Con todo, asumiríamos que una cifra sobre la mesa ha tenido un efecto de anclaje en nosotros, y si lo arriesgamos es mucho, nos movilizaremos para combatirlo.
+
+-   “Dejemos claro que si esa es la propuesta, las negociaciones han terminado. No queremos empezar por ahí.” Kahneman.

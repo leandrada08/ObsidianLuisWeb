@@ -1,0 +1,5 @@
+- No es mala en si la masturbacion
+- Lo malo es que nos autocomplacemos de manera muy facil
+- La solucion es hacerlo como maximo 1 vez a la semana y que este atado a si hicimos cosas bien
+	- Si lo hacemos sin ningun motivo nos debemos castigar
+- Es importante que todo sea con costo y beneficios para que nuestro cerebro no se acostumbre a obtener estas sastifacciones sin ningun esfuerzo

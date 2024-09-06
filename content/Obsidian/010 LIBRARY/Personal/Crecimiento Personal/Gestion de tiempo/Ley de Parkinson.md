@@ -1,0 +1,1 @@
+El trabajo se expande hasta llenar el tiempo disponible para que se termine, es por eso que hay que buscar el tiempo perfecto para dedicarle a un trabajo

@@ -1,0 +1,2 @@
+# Segunda Ecuacion de Maxwell
+Esta ecuacion nos habla de que no existen fuentes ni sumideros de campo magneticos como en el campo electricco, en este caso, el campo magnetico se genera por dipolos magneticos por lo que las lineas de esta campo son siempre cerradas, tambien nos dice que no existen dipolos magneticos, esta ecuaciones da las bases a las ecuaciones deducidas en [[Campo Magnetico]]

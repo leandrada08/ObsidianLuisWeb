@@ -1,0 +1,7 @@
+- Es importante carboidratos post entreno para el pico de insulina, la cual es anabolico y nos ayuda a construir musculos
+	- Entonces, post entreno es bueno carboidratos complejos
+- Pre entreno es bueno azucares rapidos con grasa saludables
+- Se pueden combinar el hierro de las lentejas con otros alimentos para que potencien su absorcion
+- 1 hora y media antes y despeus de comer no consumir hierro(comer) no consumir cafe ni mate
+- Priorizar otras harinas que no sean de trigo
+- En meriendas y desayuno priorizar proteina

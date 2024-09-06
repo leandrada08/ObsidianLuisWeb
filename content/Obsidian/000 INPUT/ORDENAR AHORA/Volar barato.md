@@ -1,0 +1,8 @@
+- El momento adecuado es clave para reservar vuelos
+   - Reservar vuelos internacionales con 6 u 8 meses de anticipación ofrece mejores ofertas.
+   - Para vuelos nacionales, reservar 2 a 3 meses antes puede garantizar buenos precios, aunque las ofertas de última hora pueden surgir una semana antes.
+- Los martes suelen ser el mejor día para buscar ofertas de vuelos, ya que muchas aerolíneas publican promociones ese día.
+- Volando en martes, miércoles o sábado se pueden encontrar tarifas más económicas que al inicio del fin de semana.
+- Registrarse para recibir alertas de precios puede ayudar a aprovechar ofertas repentinas.
+- Cambiar el aeropuerto de origen puede ser necesario para obtener mejores opciones de vuelo.
+- Skyscanner Limited es la empresa detrás de la información proporcionada.

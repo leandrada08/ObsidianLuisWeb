@@ -1,0 +1,1 @@
+La rete elettrica capta le emissione radiate trasferendo il corrispondente segnale di disturbo sotto forma di interferenza condotta.

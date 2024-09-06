@@ -1,0 +1,1 @@
+La incomodidad de nuestro cerebro es lo mas importante a la hora del aprendizaje, este fuerza a nuestro cerebro a aprender, en mas, si no nos sentirmo incomodos cuando estudiamos es porque basicamente lo estamos haciendo mal o ingeriendo conocimiento de manera muy sutil. Esto se ve mucho en el [[Metodo Repeticion espaciada]]

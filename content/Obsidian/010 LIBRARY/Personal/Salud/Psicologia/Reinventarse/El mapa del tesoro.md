@@ -1,0 +1,4 @@
+# El mapa del tesoro
+
+Necesitamos el coraje de adentrarnos en el otro espacio, el que no se ve. Si lo hacemos, descubriremos dos cosas: el origen de neustras conductas automaticas y nuestro potencial inexplorado. Este espacio, el insconciente, nos maneja, esto no significa que no tengamos libertad, solo que si no entendemos como actua y como conectar con el, este nos seguira manejando. Tenemos filtros mentales que nos modifican la persepcion con la que vemos las cosas y pueden conducirnos a nuestra propia destruccion
+*Muchas veces lo mas valioso esta oculto a nuestros ojos. Acercarse a lo que ya conocemos con un espiritu abierto puede ayudarnos a descubrir mucho mas*

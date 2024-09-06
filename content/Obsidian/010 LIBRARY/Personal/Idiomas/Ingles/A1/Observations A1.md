@@ -1,0 +1,2 @@
+- Cuando un verbo esta seguido de otro verbo en forma to infiniti, el segundo verbo va sin la s y sin la ing
+- En inglés, usamos "of" para indicar que una cosa es parte de otra o pertenece a otra. Por eso decimos "200ml of water" en lugar de "200ml the water".

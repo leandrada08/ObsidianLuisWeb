@@ -1,0 +1,4 @@
+Cuando nos sucede algo malo no basta con recuperarse de eso, hay que sacarle el jugo a la situación, cada evento tiene algo de enseñanza. Básicamente hay que entrenarse para no dejar entrar tanta negatividad y aprender que hacer al respecto con cada situación.
+1) no sé permite decirte nada negativo, sin importar si lo que hiciste sea estúpido o malo, no se te permite decirte nada negativo, 0 autocritica
+2) busca lo positivo en lo que te está pasando.
+Exprimir el jugo del limón significa no solo que tienes la fuerza de usar está herramiento, si no que tienes fe en ella, no puedo comenzar con algo grande, tiene que ser con cosas pequeñas, y al usar está herramiento día a día en tus pequeñas acciones cambiarás radicalmente, tienes que tener fe que esto pasara

@@ -1,0 +1,20 @@
+## Macroeconomia
+1. [[PBI]]
+2. [[Costo de vida]]
+3. [[Produccion y crecimiento]]
+4. [[Sistema Monetario]]
+5. [[Oferta de dinero e inflacion]]
+7. [[Evaluacion de proyecto]]
+8. [[Ahorro e inversion]]
+9. [[Macroeconomia]]
+10. [[Macroeconomia en una economia abierta]]
+
+## Microeconomia
+1. [[Oferta y Demanda]]
+5. [[Politicas de gobierno que alteran los resultados del mercado]]
+2. [[Mercado]]
+6. [[Los consumidores, los productores y la eficiencia del mercado]]
+3. [[Empresas en mercado competitivo]]
+4. [[Elasticidad]]
+7. [[Costos de produccion]]
+- [[Consultas primer parcial]]

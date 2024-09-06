@@ -1,0 +1,7 @@
+La memorización por asociación inverosímil es una técnica utilizada para recordar información mediante la creación de una conexión entre dos elementos aparentemente no relacionados. Por ejemplo, para recordar el número 732, podrías asociarlo con algo inusual como un pingüino tocando la guitarra eléctrica. La idea es que la imagen de un pingüino tocando la guitarra eléctrica es tan inusual y memorable que te ayudará a recordar el número 732.
+
+Esta técnica se basa en la idea de que nuestro cerebro es más propenso a recordar información que se presenta de manera inusual o sorprendente. Al crear una conexión inesperada entre dos elementos, estamos creando una imagen vívida y memorable que es más fácil de recordar que una simple lista de números o palabras.
+
+Sin embargo, es importante tener en cuenta que esta técnica puede ser más efectiva para recordar información a corto plazo, y puede no ser la mejor opción para memorizar información compleja o detallada a largo plazo. Además, puede requerir algo de práctica y creatividad para crear asociaciones inverosímiles efectivas.
+
+En general, la memorización por asociación inverosímil puede ser una herramienta útil para recordar información de manera más efectiva, siempre y cuando se utilice de manera adecuada y en combinación con otras técnicas de memoria.

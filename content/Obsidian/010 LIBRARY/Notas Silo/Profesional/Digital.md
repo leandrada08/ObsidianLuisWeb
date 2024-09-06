@@ -1,0 +1,12 @@
+
+ - [[Diseño Logico]]
+ - [[Verilog]]
+ - [[Digital UNISA]]
+ - [[Embebido]]
+ - [[E2]]
+ - [[EAMTA- Diseño VLSI]]
+ - [[Diseño Digital Avanzado]]
+ - [[Dispositivos electricos]]
+ - [[Arquitectura]]
+- [[Fotovoltaica y optoelectronica]]
+- [[Nanoelectronica]]

@@ -1,0 +1,87 @@
+## Preposizionni semplici
+- **"A"** : a
+	- + citta
+		- ... a Concepcion
+	- + a piedi, a cavallo
+	- + verbi(es. vado a studiare)
+	- + complementi random
+		- ... a letto
+		- .... a casa
+		- .... a scuola
+		- .... al mare
+		- ... al lago
+		- ... al bar
+		- ... al ristorante
+		- ... a teatro
+		- ... al cinema
+		- ... al mercato
+		- ... al lavoro
+		- ... all'universitá
+		- ... allo stadio
+		- ... allo zoo
+- **"In"** : en
+	- + Paesi,regioni, isole grandi
+	- + mezzi di trasporto
+		- in treno
+		- in auto
+		- in aereo
+		- in bici
+	- + complementi random
+		- luoghi che finiscono in *...ia*
+			- in farmacia
+			- in macelleria
+			- in pizzeria
+			- in profumeria
+			- in panetteria
+		- in spigaggia
+		- in montagna
+		- in palestra
+		- in piscina
+		- in discoteca
+		- in chiesa
+		- in banca
+- **"Da"** : De, desde
+	- + Persona
+		- Sono da mia madre(estoy en lo de mi madre)
+		- sono dal dottore(estoy en lo del doctor)*Para profesiones se usa DAL*
+	- + Venire(luogo di partenza/di origine)
+		- Vengo da roma
+- **"Di"** : De
+	- + Essere (origine)
+		- Sono di argentina
+	- + Possessione
+		- il libro é di anna
+	- + Argomento
+		- parlo di politica
+- **"Per"** : Por, para
+	- + Partire
+		- Parto per bologna
+	- + Finalitá
+		- Viaggio per lavoro
+- **"Fra/Tra"**: Entre
+	- + luoghi
+		- Per indicare la posiciones di qualcosa che si trova in mezzo a 2 o piú cose
+			- Casa mia e tra la chiesa e la farmacia
+- **"Con"** : Con
+	- + persona(compagnia)
+- **"Su"** : Sobre, encima de
+	- + Mondo digitale
+		- Parliamo su zoom
+		- Ti scrivo su WhatsApp
+	- + Sopra
+	- + Argomento
+
+
+### Tempo
+- **"A"** 
+	- + Mesi: a luglio
+	- + Ore: alle 8.30
+- **Nel**
+	- + Anni: nel 1980, nel 2015
+- **Di**
+	- + Stagioni dell'anno
+- **Da**
+	- + Periodo di tempo che continua ancora
+		- Studio italiano da due mesi
+	- + Ore-> Periodo di tempo
+		- Studio italiano dalle 4 alle 6

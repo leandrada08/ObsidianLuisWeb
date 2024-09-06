@@ -1,0 +1,2 @@
+# Repeticion Espaciada
+Basada practicamente en buscar aplanar la curva del olvido repasando espaciadamente lo aprendido, lo sugerido es repasarlo despues de 1 dia, despues de 1 semana y despues de un mes, de esta manera recordamos un 90% de lo estudiado.

@@ -1,0 +1,2 @@
+# Metodo Cornell
+Un metodo para tomar notas que se basa en dividir en 3 partes la hoja, una parte principal para exponer el tema, a la izquierda un espacio para preguntas y observaciones y abajo un espacio para hacer una conclusion sobre el tema

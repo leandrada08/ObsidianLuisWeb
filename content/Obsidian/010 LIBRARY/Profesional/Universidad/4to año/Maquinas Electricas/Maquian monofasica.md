@@ -1,0 +1,11 @@
+
+\
+
+
+
+
+
+
+
+#### Referencia:
+- [[Maquina Asincronica]]

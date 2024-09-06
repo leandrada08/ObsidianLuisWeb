@@ -1,0 +1,2 @@
+# Metodo Flowtime
+Parecido al pomodoro, pero se enfoca en no perder esos momentos de alta concentracion que en algunas oportunidades nos encuentran justo al acabar los 25 minutos propuestos y nos permite alargar por 15 o 25 minutos mas, antes de tomas un descanso

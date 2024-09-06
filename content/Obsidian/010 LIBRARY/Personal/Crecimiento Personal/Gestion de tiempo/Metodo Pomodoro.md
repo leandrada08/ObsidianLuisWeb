@@ -1,0 +1,2 @@
+# Pomodoro
+Creado en italia, basado en un reloj de forma de tomate, se basa en hacer bloques de estudio donde estudiamos por 25 minutos, descansamos por 5 y asi sucesivamente hasta conseguir 4 bloques de estos, luego se hace un descanso largo y esto nos permite estudiar sin agotarnos

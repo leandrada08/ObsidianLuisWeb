@@ -1,0 +1,1 @@
+Que es una herramienta? Una herramienta es algo que puede cambiar tu estado, toma una experiencia desagradable y la convierte en una oportunidad. Te hace ver qué ese estado no será para siempre.Las herramientas son un puente entre el problema y la causa del mismo, te ayuda a mitigar los síntomas hasta que tienes un poder sobre ello

@@ -1,0 +1,5 @@
+- [[Generalidades de maquinas rotativas]]
+- [[Maquian monofasica]]
+- [[Maquina Sincronica]]
+- [[Maquina de continua]]
+- [[Maquina Asincronica]]
