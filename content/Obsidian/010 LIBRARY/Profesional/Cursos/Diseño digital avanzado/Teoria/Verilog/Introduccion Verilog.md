@@ -1,7 +1,11 @@
-## Introduccion
+> Que es la sintesis logica? Para que se realiza? Que debe especificar el ususario para realizar esta?
+> Que es verilog? Cual es la diferencia con VHDL?
+## Introducción
 El lenguaje Verilog es un lenguaje de descripción de hardware (HDL) utilizado en el diseño y verificación de sistemas digitales. Se basa en el concepto de describir el comportamiento y la estructura de un circuito digital utilizando una sintaxis específica. Una de las características clave de Verilog es su capacidad para describir tanto el aspecto estructural como el comportamiento de un sistema digital. Esto permite a los ingenieros especificar las conexiones y organización de los componentes del circuito, así como el comportamiento temporal de las señales y eventos dentro del sistema.
 El diseño en Verilog se realiza en diferentes niveles de abstracción, lo que facilita la representación concisa y modular del sistema digital. Los niveles de abstracción incluyen el nivel de sistema, el nivel de arquitectura, el nivel de módulo y el nivel de puerta. Cada nivel de abstracción se utiliza para describir diferentes aspectos del sistema digital, desde el diseño de alto nivel hasta la implementación detallada del hardware.
 Además, Verilog también permite la síntesis lógica, que es el proceso de generar la implementación física del circuito digital a partir de la descripción en Verilog. Esto se logra utilizando herramientas de síntesis que traducen el código Verilog en una representación gate-level, que luego se utiliza para fabricar el circuito en un chip.
+
+
 
 ## VHDL vs Verilog
 Verilog y VHDL son dos lenguajes de descripción de hardware (HDL) ampliamente utilizados en el diseño y la verificación de sistemas digitales. Aunque tienen objetivos similares, existen algunas diferencias clave entre ellos.
@@ -23,7 +27,6 @@ La biblioteca contiene compuertas lógicas básicas estándar, como AND y OR, o 
 
 
 
-
 ## Que es Verilog?
 - Es un lenguaje de descripcion de hardware con similitudes a C, pero no es un lenguaje de programacion con software
 - No todo el lenguaje es sintetizable por una herramienta de sintesis
@@ -34,3 +37,4 @@ La biblioteca contiene compuertas lógicas básicas estándar, como AND y OR, o 
 		- El proceso de sintesis toma el RTL y lo traduce en un netlist de nivel de compuertas optimizado
 - Para la sintesis logica(ASIIC) el usuario especifica restricciones de diseño y la tecnologia de destino en forma de una biblioteca de celdas estandar.
 	- La biblioteca contiene compuertas logicas basicas estandar, como AND y OR, o macro-celdas como sumadores, multiplicadores, flip-flop, multiplexores, etc.
+

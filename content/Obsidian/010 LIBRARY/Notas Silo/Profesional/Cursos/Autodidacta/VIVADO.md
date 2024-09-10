@@ -1,25 +1,6 @@
-Excelente, dado que ya estás familiarizado con Verilog y deseas aprender a usar Vivado con Verilog, aquí tienes un conjunto de pasos desde lo más básico hasta tareas más avanzadas. Esto asume que ya has instalado Vivado en tu sistema.
-
-### 1. **[[Plataforma Vivado]]:**
-   - Abre Vivado y crea un nuevo proyecto.
-   - Selecciona la tarjeta de desarrollo o configuración de tu FPGA.
-   - Define la jerarquía del proyecto, asigna un nombre y una ubicación.
-
-### 2. **Creación de un Módulo Verilog Simple:**
-   - Crea un nuevo módulo Verilog en tu proyecto.
-   - Implementa un diseño simple, como un contador o un sumador.
-
-### 3. **[[Construccion TB Verilog]]:**
-   - Aprende a simular tu diseño utilizando la herramienta de simulación de Vivado.
-   - Comprende cómo analizar las ondas y depurar tu código.
-
-### 4. **Restricciones (Constraints):**
-   - Aprende a aplicar restricciones, como restricciones de temporización y asignación de pines (constraints XDC).
-   - Experimenta con restricciones para cumplir con requisitos específicos.
-
-### 5. **Implementación en Hardware:**
-   - Configura y ejecuta la implementación en hardware (síntesis, implementación y generación del bitstream).
-   - Aprende a cargar el bitstream en tu FPGA.
+- [[V.1 Inicio proyecto Vivado]]
+- [[V.2 Sintesis, implementacion y bitstream en vivado]]
+- [[V.3 Timing Constrain Asistido de Vivado]]
 
 ### 6. **Debugging con ILA (Integrated Logic Analyzer):**
    - Integra bloques ILA para realizar un análisis lógico dentro de tu diseño FPGA.

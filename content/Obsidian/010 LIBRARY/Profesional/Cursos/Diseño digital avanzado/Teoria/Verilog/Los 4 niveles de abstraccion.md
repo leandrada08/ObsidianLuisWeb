@@ -1,4 +1,19 @@
 
+# Los 4 niveles de abstraccion
+## Introducción
+
+- **Niveles de abstracción**
+	- Cuales son los niveles de abstraccion que se manejan en diseño digital?
+	- Que nivel usaremos en verilog?
+	- Cuando es conveniente usar dataflow?
+	- Cuando es conveniente utilizar RTL?
+	- Cuando es conveniente utilizar switch?
+	- Cuando es conveniente utilizar gate?
+
+
+
+
+## Niveles de abstracción
 ![[Pasted image 20231009203323.png]]
 
  Estos niveles representan diferentes formas de describir el comportamiento y la estructura de un circuito digital en Verilog, desde el nivel más bajo de detalle hasta el nivel más alto de abstracción.

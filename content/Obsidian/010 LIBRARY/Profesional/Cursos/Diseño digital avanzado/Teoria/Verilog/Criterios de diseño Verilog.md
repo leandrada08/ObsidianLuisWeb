@@ -1,9 +1,28 @@
-## Lineamientos de Sintesis
+
+
+# Criterios de diseño Verilog
+## Introducción
+- **Lineamientos de Síntesis**
+	- Que es el Glue Logic? Como se resuelve?
+	- Que tipos de bloques se debe evitar colocar juntos?
+		- Que beneficio traeria ponerlos por separado?
+- **Sistemas realimentados**
+	- Que tipo de sistemas realimentados hay que evitar?
+- **Latch**
+	- Como evitar la creacion de Latch en verilog?
+
+
+
+
+
+
+
+## Lineamientos de Síntesis
 ### Logica de encolado(Glue Logic)
-- Mientras que el diseñador esta dividiendo el diseño de forma jerarquica en una seria de modulos, debe evitar la logica encolado que conecta dos modulos
-- Esto puede suceder despues de corregir un desajuste de interfac o agregar alguna funcionalidad que falta al depurar el diseño
-- Cualquier logica de este tipo deberia formar parte de la logica combinacion de uno de los modulos constituyentes
-- *La logica de encolado peude causar problemas en sintesis ya que los modulos individuales pueden satisfacer restricciones de tiempo, mientras que el modulo de nivel superior puede que no*
+- Mientras que el diseñador esta dividiendo el diseño de forma jerarquica en una seria de modulos, debe evitar la logica encolado que conecta dos módulos
+- Esto puede suceder después de corregir un desajuste de interfaz o agregar alguna funcionalidad que falta al depurar el diseño
+- Cualquier logica de este tipo deberia formar parte de la logica combinacional de uno de los modulos constituyentes
+- *La logica de encolado puede causar problemas en sintesis ya que los modulos individuales pueden satisfacer restricciones de tiempo, mientras que el modulo de nivel superior puede que no*
 ![[Pasted image 20231008115147.png]]
 
 ### Modulos con objetivos comunes de diseño

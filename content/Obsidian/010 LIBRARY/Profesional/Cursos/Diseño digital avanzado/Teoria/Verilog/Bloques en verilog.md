@@ -1,3 +1,31 @@
+
+
+
+# Bloques en verilog
+## Introducción
+- **Always**
+	- Que tipo de diseño generan los bloques Alwayas?
+	- Cuando es conveniente usarlo?
+	- Cuales son los tipo de asignaciones que existen dentro del bloque always?
+		- Cuando es conveniente usar cada una?
+- **Initial**
+	- Cuando se debe usar bloque Initial?
+	- Cual es la diferencia con el bloque Always?
+- **Generate**
+	- Para que se utiliza el bloque generate?
+	- Cual es su diferencia con el bloque always?
+- **Function**
+	- Que es una function en verilog? 
+	- Para que se la usa?
+	- Como maneja sus variables y entradas?
+	- Como debe ser escrita internamente?
+- **Task**
+	- Cual es la diferenia entre un task y una funcion?
+
+
+
+
+
 ## Always
 El bloque `always` se utiliza para describir el comportamiento secuencial de un diseño digital. Puede estar sensibilizado a eventos específicos, como cambios de señales o flancos de reloj, y se ejecuta en respuesta a esos eventos. El código dentro del bloque `always` se ejecuta de forma continua o en ciclos, dependiendo de los eventos especificados. Se utiliza para describir la lógica secuencial, como registros de desplazamiento, contadores, máquinas de estado, entre otros.
 El método clásico de listado de sensibilidad es escribir todas las entradas al bloque entre paréntesis, donde cada entrada está separada por una etiqueta “or”. A partir de Verilog-2001 se admiten listas de sensibilidad separadas por comas. También admite escribir un “ \* ” para la lista de sensibilidad, este asterisco significa que todas las entradas estan en la lista de sensibilidad.
@@ -257,6 +285,10 @@ endmodule
 ```
 
 En este ejemplo, hemos definido una tarea llamada `calculate_parity` que toma un valor de entrada (`in_data`) y calcula la paridad de los bits. Luego, en el bloque `initial`, hemos invocado la tarea `calculate_parity` para calcular la paridad del valor `data` y mostrar el resultado.
+
+
+
+
 
 
 

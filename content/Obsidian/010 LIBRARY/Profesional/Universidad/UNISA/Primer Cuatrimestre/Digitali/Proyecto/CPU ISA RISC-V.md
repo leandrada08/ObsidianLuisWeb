@@ -1,5 +1,5 @@
 
-# Base Teoricas
+# Base Teóricas
 
 ## ISA RISC-V
 

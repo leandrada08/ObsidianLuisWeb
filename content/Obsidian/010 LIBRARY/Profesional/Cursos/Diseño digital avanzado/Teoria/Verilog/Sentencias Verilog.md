@@ -1,4 +1,14 @@
-# Sentencias
+
+
+
+# Sentencias Verilog
+## Introducción
+- **Selectores**
+	- Que tipo de selectores existen en Verilog?
+- **Loop**
+	- Que tipos de loop existen en verilog?
+
+
 
 ## Selectores
 ### Case

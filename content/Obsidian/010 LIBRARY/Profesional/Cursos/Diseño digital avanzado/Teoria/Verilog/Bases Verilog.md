@@ -1,6 +1,23 @@
 
 
 
+
+# Bases Verilog
+## Introducción
+- Modulo en Verilog
+	- Que es un modulo en Verilog?
+	- Como se define este y cuales son sus partes esenciales?
+	- Cual es la diferencia entre declarar e instanciar un Modulo?
+	- Como se declaran los puertos en un modulo?
+	- Que seria la jerarquia de modulos? Que es el modulo TOP?
+- Valores logicos y tipos de datos
+	- Cuales son los valroes logicos permitidos en Verilog?
+	- Cuales son los tipos de Datos en Verilog?
+		- Explica el tipo de dato Genvar
+- Variables y constantes
+	- Como se definen/declara una variable?
+	- Como se define una constante?
+
 ## Modulo en Verilog
 En Verilog, el módulo es una unidad de diseño que encapsula la funcionalidad de un circuito o componente específico. Un módulo en Verilog se define utilizando la palabra clave `module`. Dentro del módulo, se especifican los puertos de entrada y salida, así como las señales internas y la lógica de diseño.
 ```verilog
@@ -30,6 +47,8 @@ Recuerda que en Verilog, los módulos se pueden interconectar para crear jerarqu
 	- Los puertos de entrada siempre deben ser wire
 	- Los de salida pueden ser reg
 - Para asignar un valor a la señal de salida necesitamos la palabra clave *"assign"*
+
+**De manera resumida se podria decir que el modulo es una componente de hardware, su definicion clave es sus puertos y su compotamiento interno**
 
 ### Declaracion e instanciacion de un modulo
 Los módulos se consideran "declarados" cuando se define su estructura, es decir, se especifican los puertos de entrada y salida, así como las señales internas y la lógica de diseño. Al declarar un módulo, estás creando una plantilla o una descripción de cómo se verá y funcionará ese componente.
@@ -225,3 +244,8 @@ En ambos lenguajes, se utiliza una asignación (`assign` en Verilog y una asigna
 
 
 
+## Referencias
+
+### Notas relacionadas
+- Nota:[[Verilog]]
+	- **Relacion-Reflexion:** En esta nota, explicamos las bases del lenguaje de descripcion de hardware Verilog
