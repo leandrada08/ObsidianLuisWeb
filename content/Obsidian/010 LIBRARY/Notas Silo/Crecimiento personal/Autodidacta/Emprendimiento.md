@@ -1,7 +1,0 @@
-
-## Emprendimiento ideas
-
-
-
-
-## Emprendimientos personales

@@ -1,2 +1,1 @@
 - [[Universidad]]
-- [[Cursos profesionales]]

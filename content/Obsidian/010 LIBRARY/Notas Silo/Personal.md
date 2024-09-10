@@ -10,7 +10,7 @@
 - [[Aprendizaje de idioma]]
 - [[Aprendez un idioma adria sola]]
 
-### Libros
+#### Libros
 - [[Aprender Ingles en 7 dias]]
 
 ## Autodidacta
@@ -34,12 +34,8 @@
 - [[Factores de nuestro cuerpo]]
 - [[Apariencia]]
 - [[Psicologia]]
-### Financias
-- [[Financias]]
-
-### Emprendimiento
-- [[Emprendimiento]]
-
+### Finanzas
+- [[Finanzas]]
 
 ## Cursos
 - [[Gestion de tiempo]]
