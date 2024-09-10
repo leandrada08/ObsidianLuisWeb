@@ -11,7 +11,7 @@
 - [[E1]]
 - [[E2]]
 - [[Instalaciones Electricas]]
-- [[Dispositivos electricos]]
+- [[Dispositivos electrónicos]]
 ## 4to y 5to
 - [[Sistemas de control 1]]
 - [[Economia]]

@@ -29,7 +29,7 @@ title: Second Brain Luis
 
 ### Activos
 - **Aprender:** [[Aprender]]
-- **Digital:** [[Digital]]
+- **Electronica:** [[Electronica]]
 - **Finanzas:** [[Finanzas]]
 - **Salud:** [[Salud]]
 
