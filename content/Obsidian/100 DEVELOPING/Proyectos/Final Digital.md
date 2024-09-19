@@ -1,7 +1,7 @@
 
 
 ## Fecha finalización
-- 16 de septiembre
+- 25 de septiembre
 
 ## Ideas
 

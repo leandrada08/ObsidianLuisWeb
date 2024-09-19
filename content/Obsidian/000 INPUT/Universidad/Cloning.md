@@ -1,0 +1,1 @@
+Replicacion de registro para bajar el fan out

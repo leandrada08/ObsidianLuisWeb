@@ -1,3 +1,27 @@
+
+
+# Pipelining
+## Introducción
+
+- **Bases del Pipelining**
+	- Cual es la diferencia entre pipeline e pipelining?
+	- Cuales metricas de tiempo se ven mejoradas aplicando pipelining y cuales empeoran?
+	- Como seria un pipeline ideal?
+	- Como es un pipeline real?
+		- Cuales son los problemas que debe resolver este?
+	- Que es el throughput?
+- **Aplicacion del pipeline**
+	- Cuantas etapas de pipelining aplico?
+	- Donde aplico el pipelining?
+		- Que es el cutset?
+		- Que es el feedfoward cutset?
+	- Cuales son los problemas que genera el pipeline?
+		- Como se pueden gestionar estos errores?
+
+
+
+
+
 # Pipeling
 ## Bases del Pipelining
 Procesamiento en serie: Mejora la *productividad*
@@ -407,3 +431,11 @@ Il problema dell'alternativa precedente è che in pipeline più lunghe è molto 
 
 #### Pipeline Completo
 ![[Pasted image 20230425134335.png]]
+
+
+
+
+# Referencias
+### Notas relacionadas
+- **Nota:**[[4. Transformaciones para Alta Velocidad, Bajo consumo y Optimizacion de Area]]
+	- **Relacion-Reflexion:** La tecnica de Pipelining es una tecnica con la cual podemos aumentar la velocidad de nuestro sistema aumentando minimamente el consumo y el area
