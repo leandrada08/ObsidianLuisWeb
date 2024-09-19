@@ -8,7 +8,7 @@
 - [[Compilacion en C]]
 
 ## Desarrollo basado en prueba
-- [[Desarrollo guiado por pruebas]]
+- [[Test Driven Development]]
 
 ## Sistema operativo
 - [[Sincronizacion de Procesos]]
@@ -42,7 +42,7 @@
 - [[TP6 Embebido]]
 	- Union de TP4 y TP5
 - TP7 Embebido
-	- [[Desarrollo guiado por pruebas]]
+	- [[Test Driven Development]]
 - TP8 Embebido
 	- Reloj
 - TP9 Embebido

@@ -1,3 +1,114 @@
+
+# Ingles
+## What is Software Testing
+It is the process focused on finding defects in a system.
+*Static Testing (Verification):* 
+- The code is not executed
+- It verifies standard compliance
+*Dynamic Testing (Test):*
+- The code is executed
+- It verifies requirement compliance
+
+## Coding Guidelines
+It is the set of conventions on how to write code. They increase readability and reduce errors.
+- NASA SEL-94-003: Format from NASA’s Jet Propulsion Laboratory
+
+### MISRA 2004
+- C90 Code
+
+## Verification
+It can be performed by automatic tools (Linter)
+- Verify prototype compliance
+- Eliminate ambiguous situations
+It can also be done by another person
+- Improves software quality
+- Improves the quality of the programmer
+- Enhances teamwork
+
+### Clang-Format
+A tool to adjust and/or verify the format of C source code.
+
+### Cppcheck
+
+### Git Hooks
+Functions that Git allows you to define, which are executed when making a commit or push. In these, you can install scripts that review or change the code format.
+This tool also saves the configuration in a file within the same repository.
+
+## Testing
+Tests are dynamic checks. There are tests for:
+- Unit
+- Module
+- System
+
+### Unit Tests
+They test a C file. Only the *external functions* are tested.
+- All functions used from other files utilized by the code are replaced by Stub or Mock functions.
+![[Pasted image 20230522113435.png|200]]
+
+### Module Tests
+They test the entire set of files that make up a module. The functions provided by other modules must be replaced with stubs or mocks.
+- Similar to unit tests but include possible coupling issues between the module components.
+- The same tools used for unit tests are employed.
+
+### Test Structure
+![[Pasted image 20230522114641.png|500]]
+- Test procedures are each individual test. Every time we do one, we go through the same process:
+	1. Set known values
+	2. Call the function under test
+	3. Verify the results 
+### Testing Framework
+All frameworks, regardless of language, use exactly the same 3 components.
+
+### Ceedling: The Tool We Will Work With
+It is a framework that works together with *Unity and CMock*.
+It automates testing tasks:
+- Automatically generates mocks (CMock)
+- Executes tests (Unity)
+- Collects results
+It also automates the creation of the Makefile.
+
+#### Unity
+It is a library for unit and module testing of C code. It allows you to write tests very quickly and in a highly conceptual manner.
+
+#### CMock
+It is a library for generating Stub or Mock functions.
+*Mock:* A replacement for the functions/objects used in a test. These simulate the behavior of objects or components of the system that are not yet available or are difficult to configure in the test environment. They help to isolate and independently test the behavior of a specific part of the system.
+*Stub:* They do nothing and only allow the test to compile.
+
+## Test-Driven Programming
+### How We Program
+- We obtain a subset of requirements
+- We define one or more functions
+- We write each function
+- We write a program to test the function
+- We keep the function
+- We discard the test program
+#### What's Wrong?
+Often, when implementing a new feature, we break another one. If we save the tests "alongside" the function, every time something changes, we can verify that what used to work still does.
+- These tests are part of the documentation.
+- Testing frameworks simplify the process.
+### What If We Change?
+If we write the tests first and then the program:
+- We guarantee compliance with the requirements.
+- We force proper requirement analysis.
+
+## Test Driven Development
+- Improves the quality of developed software
+- Design focused on needs
+- Simpler design
+- Higher productivity
+- Less time spent debugging errors.
+
+### The Three Rules of TDD
+- You can't write any production code unless it’s to make a failing unit test pass.
+- You can't write more than one failing unit test at a time, and a compilation failure is also considered a failure.
+- You can't write more production code than strictly necessary to make the failing unit test pass.
+
+## Observations
+- After passing the tests, refactor them.
+
+
+# Español
 ## Que es el testing de software
 Es el proceso centrado en el objetivo de encontrar defectos en un sistemas
 *Prueba Estaticas(verificacion):* 

@@ -9,7 +9,6 @@ Separar el camino de datos en etapas independientes, esto lo haremos con buffers
 5. WB: Escritura del resultado
 - Cada etapa se ejecutara en 1 ciclo
 - La separacion anteriore de etapas es posible gracias a que el ISA de RISC-V fue diseniado pensando en pipelining
-<!--ID: 1682692834916-->
 
 
 
@@ -38,7 +37,6 @@ Los problemas que pueden ocurrir se llaman riesgos, y pueden ser:
 - *De Datos:* Hay que esperar que una instruccion previa se complete(dependencias)
 - *De Control:* La decision de que accion tomar depende de una instruccion previa(saltos)
 $$CPIpipeline=CPIideal+ParadasRiesgoEstructural+ParadasRiesgoDatos+ParadasRiesgosControl$$
-<!--ID: 1682692834920-->
 
 
 
@@ -53,7 +51,6 @@ $$CPIpipeline=CPIideal+ParadasRiesgoEstructural+ParadasRiesgoDatos+ParadasRiesgo
 1. Hay que poner todas las senialse de control del registro ID/EX en cero.
 	- Hace que en las etapas no se haga nada.
 2. Evitar la actualizacion de PC y del registro IF/EX(esto lo haremos sacando el clk)
-<!--ID: 1682692834925-->
 
 
 ### Como solucionamos cada riesgo

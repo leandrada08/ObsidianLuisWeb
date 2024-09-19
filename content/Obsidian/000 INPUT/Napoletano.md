@@ -1,0 +1,10 @@
+- Appicciare
+	- Accendere
+	- Dare fuoco
+	- Anche si puo dire a una persona che sei tutto apicciato
+- faticare
+	- lavorare
+	- faticoso
+	- lavoro
+- ascolta 'cornutone' degli squallor
+	- 
