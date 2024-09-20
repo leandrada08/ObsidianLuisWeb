@@ -1,5 +1,5 @@
 
-# Inglese
+# Italiano
 
 ## Analisi del nostro ISA
 ### Sottogruppo dell'ISA di RISC-V

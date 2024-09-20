@@ -1,4 +1,4 @@
-### Introduccion
+ ### Introduccion
 El algoritmo CORDIC (Coordinate Rotation Digital Computer) es un método iterativo para realizar operaciones trigonométricas y de rotación de vectores en coordenadas polares. Este algoritmo se utiliza comúnmente en hardware para calcular funciones trigonométricas de manera eficiente.
 
 La aproximación rotacional en el algoritmo CORDIC se utiliza para realizar rotaciones de un vector en el plano xy. El objetivo es lograr que el vector de entrada rote hacia el eje x (la rotación sea cero) mediante la aplicación de una secuencia de rotaciones finitas.
