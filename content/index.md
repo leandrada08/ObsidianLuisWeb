@@ -9,7 +9,6 @@ title: Second Brain Luis
 		- *Ingles:* [[Ingles]]
 	- Varios
 		- Obsidian: [[Obsidian]]
-		- Seducción [[Seduccion]]
 		- Hábitos: [[Habitos]]
 - **Profesional**
 	- Cursos profesionales
