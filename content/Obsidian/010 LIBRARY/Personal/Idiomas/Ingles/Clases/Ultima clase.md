@@ -11,15 +11,15 @@ in order to →
 
 # Tarea
 
-1. I *feel* exhausted after all that shopping!
-2. So do I. I usually *Have* a coffee afeter shopping. This cafe looks nice.
-3. Mmm. I don’t often *go* shopping, but I really *Enjoy* it when I do.
-4. Let’s sit here. Show me your new dress again. That’s really nice. *is* it for a special occasion?
+1. I **feel** exhausted after all that shopping!
+2. So do I. I usually **Have** a coffee afeter shopping. This cafe looks nice.
+3. Mmm. I don’t often **go** shopping, but I really **Enjoy** it when I do.
+4. Let’s sit here. Show me your new dress again. That’s really nice. **is** it for a special occasion?
 5. No, I just need to cheer myself up!
-6. Oh, why?Everything *is going well* with your job, isn’t it?
+6. Oh, why?Everything **is going well** with your job, isn’t it?
 7. Well, not really.
-8. Why’s that? You usually *appear* to be so happy in your work
-9. Well, I was at first but as you know, I *visit* my family in Scotland whenever, I can, and them days, now that Dad’s quite ill, I 
+8. Why’s that? You usually **appear** to be so happy in your work
+9. Well, I was at first but as you know, I **visit** my family in Scotland whenever, I can, and them days, now that Dad’s quite ill, I am seing then every weekend, so i'm leaving work early friday to get to scotland. My boss although
 
 
 ## Page 65

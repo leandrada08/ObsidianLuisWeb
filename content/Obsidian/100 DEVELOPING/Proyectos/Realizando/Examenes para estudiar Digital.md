@@ -145,15 +145,15 @@ Aquí tienes cuatro nuevos exámenes con una distribución distinta de los temas
 2. ¿Cómo se implementa un multiplicador paralelo y cuáles son sus principales etapas? 8 -> repasar booth
 
 **Tema 4: Análisis Estático de Temporización**
-1. ¿Qué es un "timing path" y cómo se define el "net delay" dentro de este?
-2. ¿Cómo calcula Vivado los tiempos de hold y setup durante el análisis de temporización?
+1. ¿Qué es un "timing path" y cómo se define el "net delay" dentro de este? 8
+2. ¿Cómo calcula Vivado los tiempos de hold y setup durante el análisis de temporización? 5
 
 **Tema 5: Gestión del Clock**
-1. ¿Qué es el clock jitter y cómo se gestiona en un sistema digital?
-2. Explica las diferentes estrategias para distribuir el clock en una FPGA.
+1. ¿Qué es el clock jitter y cómo se gestiona en un sistema digital? 6
+2. Explica las diferentes estrategias para distribuir el clock en una FPGA. 8
 
 **Tema 6: Pipelining**
-1. ¿Cuáles son las métricas de tiempo que mejoran con el pipelining y cuáles empeoran?
+1. ¿Cuáles son las métricas de tiempo que mejoran con el pipelining y cuáles empeoran? 8
 
 ---
 
