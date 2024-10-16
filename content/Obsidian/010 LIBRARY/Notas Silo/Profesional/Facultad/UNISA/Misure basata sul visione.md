@@ -46,6 +46,6 @@
 ### Anexos
 - [[Primitive geometrici]]
 - [[C. Distorsion]]
-
-## Proyecto
-- [[Explicacion codigo final proyecto final Misura basata sul visione]]
+- [[C. Manejo de imagenes]]
+- [[C. Clasificadores de imagenes]]
+- [[C. Problema de clasificacion de imagenes]]

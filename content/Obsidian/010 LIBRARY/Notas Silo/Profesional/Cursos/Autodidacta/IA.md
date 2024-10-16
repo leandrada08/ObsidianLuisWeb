@@ -5,7 +5,7 @@
 - [[Modo experto]]
 - [[Resumir textos largos]]
 
-- [[CHAT GPT]]
+- [[010 LIBRARY/Profesional/Autodidacta/IA/CHAT BOOT/CHAT GPT]]
 	- [[Mi API key]]
 - [[PI]]
 

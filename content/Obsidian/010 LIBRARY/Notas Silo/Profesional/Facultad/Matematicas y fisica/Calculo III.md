@@ -1,2 +1,0 @@
-- [[Gradiente]]
-- [[Teorema de Stokes]]

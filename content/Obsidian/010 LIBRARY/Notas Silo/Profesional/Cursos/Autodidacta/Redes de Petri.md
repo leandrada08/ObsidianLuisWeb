@@ -8,7 +8,6 @@
 - [[Grafcet VS Petri]]
 - [[Redes de Petri Especiales]]
 - [[Simulador Redes de Petri]]
-- [[Utilizacion de Redes de Petri para VHDL]]
 
 
 ## Referencia

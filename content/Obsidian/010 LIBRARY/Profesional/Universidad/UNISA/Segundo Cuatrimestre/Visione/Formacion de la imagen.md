@@ -1,6 +1,6 @@
 
 ## Lente delgada
-Hacemos uso de lo aprendido en [[Lenti e Sistemi Ottici#Lente delgada]] 
+Hacemos uso de lo aprendido en [[2. Lenti e Sistemi Ottici#Lente delgada]] 
 ### 2.1. Modelo de Lente Delgada
 #### Hipótesis de la Lente Delgada
 - **Grosor de la Lente**: Se considera que el grosor de la lente es mucho menor que las distancias $l_1$ (distancia objeto-lente) y $l_2$ (distancia lente-imagen).
@@ -25,7 +25,7 @@ Hacemos uso de lo aprendido en [[Lenti e Sistemi Ottici#Lente delgada]]
   m = \frac{h_2}{h_1} = \frac{l_2}{l_1}
   $$
 
-![[Lenti e Sistemi Ottici#Aumento trasversale M]]
+![[2. Lenti e Sistemi Ottici#Aumento trasversale M]]
 
 
 ### 2.4. Dimensiones y Selección de la Óptica

@@ -1,7 +1,7 @@
 
 
 
-## ![[PROFES~1/UNIVER~1/UNISA/Sistemi di interfaccia/BUS#BUS para Computadoras]]
+## [[BUS]]
 
 
 

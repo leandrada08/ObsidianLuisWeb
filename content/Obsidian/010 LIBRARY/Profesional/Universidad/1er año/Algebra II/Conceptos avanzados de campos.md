@@ -1,6 +1,6 @@
 
-[[Gradiente]]
-
+## Gradiente
+El gradiente de una funcion se puede escribir como operador nabla funcion $$\nabla F$$
 ## Divergencia 
 La divergencia es una funcion que tiene de entrada un campo vectorial y de salida un campo escalar, este segundo nos da el valor del cambio de la densidad de fluido del campo vectorial en cada punto.  El resultado de este operador vectorial es un campo escalar.![[Pasted image 20220801173746.png]]
 

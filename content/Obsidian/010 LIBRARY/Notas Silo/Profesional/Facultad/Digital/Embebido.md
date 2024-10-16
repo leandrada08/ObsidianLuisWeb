@@ -1,7 +1,7 @@
 
 
 ## Embebidos
-- [[Introduccion embebidos]]
+- [[Introduccion sistemas embebidos]]
 - [[Abstraccion de Hardware]]
 ## Lenguaje C
 - [[Lenguaje C]]

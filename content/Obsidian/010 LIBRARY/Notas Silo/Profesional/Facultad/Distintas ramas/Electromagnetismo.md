@@ -9,7 +9,7 @@
 - [[Vector de poyting]]
 - [[Operador Nabla]]
 - [[Conceptos avanzados de campos]]
-- [[Gradiente]]
+- [[010 LIBRARY/Profesional/Universidad/2do año/Calculo III/Gradiente]]
 - [[Teorema de Stokes]]
 
 

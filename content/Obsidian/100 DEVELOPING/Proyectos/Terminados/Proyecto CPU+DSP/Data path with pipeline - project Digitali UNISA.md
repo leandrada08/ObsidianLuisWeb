@@ -22,10 +22,6 @@ Quando facciamo un'analisi del tempo di accelerazione, ci rendiamo conto che è 
 
 ---
 
-Avísame si necesitas más traducciones o ajustes.
-
-
-
 
 # Spagnolo
 ## CPU con pipeline 
